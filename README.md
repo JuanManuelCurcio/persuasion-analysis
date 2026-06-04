@@ -34,6 +34,7 @@ Target variable:
 
 ## Repository Structure
 
+```text
 persuasion-analysis/
 │
 ├── README.md
@@ -44,7 +45,7 @@ persuasion-analysis/
 │   ├── PersuasionPART1.csv
 │   ├── PersuasionPART2_numeric.csv
 │   ├── PersuasionPART3_pca.csv
-│   ├── PersuasionPART4_std.csv
+│   └── PersuasionPART4_std.csv
 │
 ├── notebooks/
 │   ├── 01_exploratory_analysis.ipynb
@@ -57,11 +58,10 @@ persuasion-analysis/
 └── figures/
     ├── correlation_matrix.png
     ├── scree_plot.png
-    ├── pca_components.png
+    ├── pca_scatter.png
     ├── clusters.png
-    ├── radar_cluster1.png
-    └── ...
-
+    └── radar_cluster1.png
+```
     
 ## Analysis Workflow
 
