@@ -1,5 +1,3 @@
-# persuasion-analysis
-
 # Student Persuasion Analysis
 
 ## Overview
