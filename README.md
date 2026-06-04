@@ -36,44 +36,25 @@ Target variable:
 
 persuasion-analysis/
 │
-
 ├── README.md
-
 ├── report/
-
 │   └── Persuasion_Analysis_Report.pdf
-
 │
 ├── data/
-
 │   ├── PersuasionPART1.csv
-
 │   ├── PersuasionPART2_numeric.csv
-
 │   ├── PersuasionPART3_pca.csv
-
 │   ├── PersuasionPART4_std.csv
-
 │
-
 ├── notebooks/
-
 │   ├── 01_exploratory_analysis.ipynb
-
 │   └── 03_clustering_analysis.ipynb
-
 │
-
 ├── scripts/
-
 │   ├── 02_principal_component_analysis.R
-
 │   └── 04_logistic_regression.R
-
 │
-
 └── figures/
-
     ├── correlation_matrix.png
     ├── scree_plot.png
     ├── pca_components.png
