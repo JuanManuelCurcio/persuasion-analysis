@@ -48,7 +48,7 @@ persuasion-analysis/
 │   └── PersuasionPART4_std.csv
 │
 ├── notebooks/
-│   ├── 01_exploratory_analysis.ipynb
+│   ├── 01_exploratory_tokenization_analysis.ipynb
 │   └── 03_clustering_analysis.ipynb
 │
 ├── scripts/
