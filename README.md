@@ -42,7 +42,7 @@ persuasion-analysis/
 │   └── Persuasion_Analysis_Report.pdf
 │
 ├── data/
-│   ├── PersuasionPART1.csv
+│   ├── PersuasionPART1_rawdata_token.csv
 │   ├── PersuasionPART2_numeric.csv
 │   ├── PersuasionPART3_pca.csv
 │   └── PersuasionPART4_std.csv
@@ -57,10 +57,16 @@ persuasion-analysis/
 │
 └── figures/
     ├── correlation_matrix.png
-    ├── scree_plot.png
+    ├── variables_pca_correlations.png
+    ├── pca_variances.png
     ├── pca_scatter.png
-    ├── clusters.png
-    └── radar_cluster1.png
+    ├── kmeans_elbow.png
+    ├── kmeans_clustering.png
+    ├── centroids.png
+    ├── radar_cluster_1.png
+    ├── radar_cluster_2.png
+    ├── radar_cluster_3.png
+    └── radar_cluster_4.png
 ```
     
 ## Analysis Workflow
