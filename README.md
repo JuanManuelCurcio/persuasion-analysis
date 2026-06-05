@@ -1,4 +1,4 @@
-# Student Persuasion Analysis
+# Persuasion Analysis
 
 ## Overview
 
